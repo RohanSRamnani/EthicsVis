@@ -1,3 +1,0 @@
-import JWork
-
-JWork.MakeJSON()
